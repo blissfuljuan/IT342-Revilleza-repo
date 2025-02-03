@@ -3,6 +3,6 @@
 TEAM MEMBERS:
 Member1
 NAME: FREDERICK REVILLEZA JR
-COURSE & YEAR: BSIT-2
+COURSE & YEAR: BSIT-4
 
 <Short Description about yourself (5 sentences)>
